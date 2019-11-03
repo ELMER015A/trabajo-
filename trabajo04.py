@@ -326,3 +326,4 @@ print(" velocidad inicial es", velocidad_inicial)
 print(" aceleracion es", aceleracion)
 print(" tiempo es",tiempo)
 print("velocidad final es",velocidad_final)
+
